@@ -4,7 +4,7 @@
 The Plant Structure Explorer is a software application designed to improve operational efficiencies in metal processing plants. This tool enables users to interactively manage and navigate through complex plant hierarchies, enhancing the ability to locate and control processes, equipment, and sensors. Developed using the Unified Process (UP) framework and Unified Modeling Language (UML), this application offers a dynamic, real-time interactive interface for efficient plant operation management.
 
 ## Video Demo
-A video demonstration of the Plant Structure Explorer is available within this repository. It provides an overview of the application's functionality and key features. [Watch the video here](./Plant%20Structure%20Explorer.mp4).
+A video demonstration of the Plant Structure Explorer is available within this repository. It provides an overview of the application's functionality and key features. [Watch the video here](https://www.youtube.com/watch?v=GOhGNYrQp6o).
 
 [![Youtube](./PlantStructureExplorer.png)](https://www.youtube.com/watch?v=GOhGNYrQp6o)
 
